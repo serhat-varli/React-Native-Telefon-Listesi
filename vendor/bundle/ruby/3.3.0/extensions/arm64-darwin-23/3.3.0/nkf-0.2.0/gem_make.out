@@ -1,0 +1,18 @@
+current directory: /Users/serhatvarli/Desktop/rnative/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+/Users/serhatvarli/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/serhatvarli/Desktop/rnative/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240323-16254-hef84w sitelibdir\=./.gem.20240323-16254-hef84w clean
+
+current directory: /Users/serhatvarli/Desktop/rnative/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240323-16254-hef84w sitelibdir\=./.gem.20240323-16254-hef84w
+compiling nkf.c
+linking shared-object nkf.bundle
+
+current directory: /Users/serhatvarli/Desktop/rnative/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240323-16254-hef84w sitelibdir\=./.gem.20240323-16254-hef84w install
+/usr/bin/install -c -m 0755 nkf.bundle ./.gem.20240323-16254-hef84w
+
+current directory: /Users/serhatvarli/Desktop/rnative/vendor/bundle/ruby/3.3.0/gems/nkf-0.2.0/ext/nkf
+make DESTDIR\= sitearchdir\=./.gem.20240323-16254-hef84w sitelibdir\=./.gem.20240323-16254-hef84w clean
